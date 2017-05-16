@@ -1,7 +1,11 @@
 # Quadratic Equations Solver
 
 Using  the special Quadratic Formula:
-![Qudadratic Formula](https://www.mathsisfun.com/algebra/images/quadratic-formula.svg "Qudadratic Formula")
+![alt text][Qudadratic Formula]
+
+[Qudadratic Formula]: https://www.mathsisfun.com/algebra/images/quadratic-formula.svg "anRUSS"
+
+
 Just plug in the values of a, b and c, and do the calculations.
 
 # How to Use
