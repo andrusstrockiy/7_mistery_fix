@@ -1,10 +1,13 @@
 # Quadratic Equations Solver
 
-[TODO. There will be project description]
+Using  the special Quadratic Formula:
+![Qudadratic Formula](https://www.mathsisfun.com/algebra/images/quadratic-formula.svg "Qudadratic Formula")
+Just plug in the values of a, b and c, and do the calculations.
 
 # How to Use
+Just plug in the values of a, b and c, and do the calculations.
 
-[TODO]
+But sometimes we don't get two real answers, and the "Discriminant" shows why ... 
 
 # How to Launch Tests
 
@@ -15,3 +18,9 @@ python tests.py
 # Project Goals
 
 The code is written for educational purposes. Training course for web-developers - [DEVMAN.org](https://devman.org)
+
+# Credits
+
+Theory was taken from that site
+
+[mathsisfun.com](https://www.mathsisfun.com/algebra/quadratic-equation.html)
